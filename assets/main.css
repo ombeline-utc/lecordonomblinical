@@ -1,0 +1,87 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: cutenotes;
+  src: url(./fonts/CuteNotes.ttf);
+}
+
+
+@font-face {
+  font-family: xilosa;
+  src: url(./fonts/xilosa_.ttf);
+}
+
+@font-face {
+  font-family: mindfuck;
+  src: url(./fonts/BlMindfuck-Regular.ttf);
+}
+
+@font-face {
+  font-family: babydoll;
+  src: url(./fonts/BabyDoll.otf);
+}
+
+@font-face {
+  font-family: njna;
+  src: url(./fonts/njnaruto.ttf);
+}
+
+@font-face {
+  font-family: roblox;
+  src: url(./fonts/RobloxFont-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: ramillas;
+  src: url(./fonts/TT\ Ramillas\ Initials\ Trial\ Black.ttf);
+}
+
+@font-face {
+  font-family: littlekids;
+  src: url(./fonts/LittleKidsHandwriting-Regular.otf);
+}
+
+@font-face {
+  font-family: poti;
+  src: url(./fonts/poti.ttf);
+}
+
+body{
+  background-color: black;
+}
+
+h1 {
+  font-size: 50px;
+  display: inline;
+  color: white;
+}
+
+img{
+  max-width: 100%;
+  height: auto;  
+}
+
+.hostVideo{
+  width: 100%;
+  height:100%;  
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.hostVideoWrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  overflow: hidden;
+}
+.pageWrapper{
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}

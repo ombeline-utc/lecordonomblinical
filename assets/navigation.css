@@ -1,0 +1,85 @@
+@import "./main.css";
+
+.navContainer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+.siteTitle{
+    text-align: center;
+}
+
+.siteTitle h1 {
+    font-family: mindfuck;
+    font-size: 3em;
+    color: white;
+    transition: color 0.3s ease;
+    z-index: 9999;
+    position: relative;
+
+}
+
+.titleLink:hover h1{
+    color: crimson;
+}
+
+.titleLink{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.navBar{
+    position: relative;
+    z-index: 9999;
+    padding: 0;
+    margin: 0 auto;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    transform: translateZ(0);
+
+}
+
+.menu-item{
+    list-style: none;
+}
+
+.menu-icon{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    pointer-events: none;
+}
+
+.menu-link{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    text-decoration: none;
+    user-select: none;
+}
+
+.menu-link > * {
+grid-column-start: auto;
+grid-row-start: auto;   
+}
+
+.iconText{
+    margin-top: 10px;
+    color: white;
+    font-family: cutenotes;
+    font-size:30px;
+    text-align: center;   
+}
