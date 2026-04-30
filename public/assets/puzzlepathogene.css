@@ -1,0 +1,173 @@
+@import "./main.css";
+
+.timeline-container{
+    position: relative;
+    width: 100%;
+}
+
+.timeline-img {
+    width: 100%;
+    display: block;
+    margin: 0;
+    max-width: none;
+}
+
+.annee-container{
+    position: relative;
+    width: 100%;
+}
+
+.annee-img{
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    max-width: none;
+}
+
+.click-zone{
+    position: absolute;
+    cursor: pointer;
+}
+
+.journal-container{
+    height: 55vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: normal;
+    color: white;
+    max-width: 100%;
+}
+
+.journal-columns {
+    height: 100%;
+    column-width: 550px;
+    column-gap: 2rem;
+    padding: 1rem;
+}
+
+.journal-pre {
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    font-family: babydoll;
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.journal-bloc {
+    margin-bottom: 3rem;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    padding-bottom: 1rem;
+}
+
+.jour {
+    font-size: 1.4em;
+    font-family: roblox;
+    color: white;
+    margin-bottom: 0.5rem;
+}
+
+.prose {
+    font-size: 1.2em;
+    font-family: ramillas;
+    color: #FFE575;
+    margin-bottom: 1.5rem;
+}
+
+.separator{
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    margin: 2rem 0;
+    width: 100%;
+}
+
+.controls{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.nav-button {
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.nav-button:hover {
+    transform: scale(1.6);
+}
+
+.frise-lunaire{
+    position: relative;
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.frise-image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.frise-mask {
+    pointer-events: none;
+    clip-path: inset(0% 100% 0% 0%);
+    transition: clip-path 0.5s ease;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 2;/*
+    mask-image: linear-gradient(to right, black 90%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, black 90%, transparent 100%);*/
+
+}
+
+.mois{
+    visibility: hidden;
+}
+
+.frise-fade{
+    position: absolute;
+    top: 0;
+    width: 53px;
+    height: 100%;
+    z-index: 3;
+    pointer-events: none;
+    background: linear-gradient(to left, rgba(0,0,0,1), transparent);
+    filter: blur(2px);
+    transition: left 0.5s ease;
+}
+
+.repere-mois-container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 5;
+    pointer-events: none;
+}
+
+.repere-mois {
+    position: absolute;
+    top: 1rem;
+    transform: translateX(-50%);
+    color: white;
+    font-family: babydoll;
+    font-weight: bold;
+    font-size: 0.8rem;
+    padding: 2px 4px;
+    border-radius: 4px;
+    pointer-events: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.repere-mois:hover {
+    transform: translateX(-50%) scale(1.2);
+}
