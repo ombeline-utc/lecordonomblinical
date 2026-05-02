@@ -109,8 +109,9 @@
 
 }
 
-h2{
-  margin: 70px auto;
+p{
+  margin: 20px auto;
+  margin-top: 70px;
   text-align: center;
     white-space: pre-wrap;
   word-wrap: break-word;
