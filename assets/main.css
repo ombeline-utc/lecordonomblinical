@@ -48,6 +48,11 @@
   src: url(./fonts/poti.ttf);
 }
 
+@font-face {
+  font-family: books;
+  src: url(./fonts/Go\ around\ the\ books\ 2022.ttf);
+}
+
 body{
   background-color: black;
 }
