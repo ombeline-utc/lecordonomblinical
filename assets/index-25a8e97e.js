@@ -35,17 +35,7 @@ Quand les figures de l’urbain se font creuses nous disons : chantons à l’un
 
 Nous sommes trois femmes s’ayant rencontrées par le hasard d’une évidence. Nous avons atterries toutes trois dans une maison avec une âme envoûtante, qui nous a dit « voilà un refuge » où se retirer des eaux tempétueuses du cours de nos vies respectives. Alors nous avons créé, chaque jour, chacune, ce qui nous permettait de renouer avec notre parole, nos rêves, nos conséquences. Et de coups d’oeil sur le travail de l’autre à des moments de symbiose à parler de nos errances, de nos voyages, de notre vécu de femme, d’émancipation, des névralgies d’un monde douloureux pour beaucoup, injuste et vidé de ce qui nous fait vivre. Voilà que rapidement, de simples co-habitantes nous sommes devenues soeurs, sensibles à nos réalités partagées et individuelles et puissantes de se réunir et se reconnaître. Alors sur une fulgurance de vouloir raconter quelque chose qui nous parlait à chacune, un après-midi tout s’est constellé très vite, à la tombée du jour nous animions notre jardin d’un décor où promener les songes, la nuit nous filmions, dansions, riions, chantions et dans la foulée nous avons fait le montage : nous étions transportées.`},{name:"Onda su onda cazzo",slug:"onda-su-onda",n:1,id:"Xpp-jK-onp4",vignette:new URL("/assets/vignette-ondaSuOnda-8a2929e1.png",self.location).href,description:`sans contrefaçon, je ne veux pas de glaçon.
 
-        || musique par Paolo Conte - Onda sur onda`},{name:"La dorade qui pêchait le frioul",slug:"la-dorade",n:2,id:"YxCrm9gJyP0",vignette:new URL("/assets/vignette-laDorade-9472a9bb.png",self.location).href,description:`L'homme dorade fait beaucoup de bulles quand il respire. Ces bulles brillent comme les mouettes quand elles touchent le soleil. Elles ont le goût du Sud et le cœur sur les mains.
-
-Alors quand l'étang devient océan, quand je suis perdue par les récits du ciel, il m'offre une bulle. Il nous sourit, à moi et la vie. Si nous y sommes, c'est pour rire. Alors petite crevette, prends confiance. 
-
-Car un chalutier ivre de légumes et de bébés pigeons nous attend au port. 
-
-Tu me diras qu'une dorade n'aime pas fréquenter les ports, qu'elle peine à s'arrêter sentir la certitude de la terre ferme. Je te crois, l'eau fugitive est douce sous les vents insomniaques du large. 
-
-|| musiques par 
-° Vangelis - La petite fille de la mer
-° Idir - A Vava Inouva`},{name:"La dorade qui pEchait le frioul",slug:"la-dorade",n:2,id:"YxCrm9gJyP0",vignette:new URL("/assets/vignette-laDorade-9472a9bb.png",self.location).href,description:`L'homme dorade fait beaucoup de bulles quand il respire. Ces bulles brillent comme les mouettes quand elles touchent le soleil. Elles ont le goût du Sud et le cœur sur les mains.
+        || musique par Paolo Conte - Onda sur onda`},{name:"La dorade qui pEchait le frioul",slug:"la-dorade",n:2,id:"YxCrm9gJyP0",vignette:new URL("/assets/vignette-laDorade-9472a9bb.png",self.location).href,description:`L'homme dorade fait beaucoup de bulles quand il respire. Ces bulles brillent comme les mouettes quand elles touchent le soleil. Elles ont le goût du Sud et le cœur sur les mains.
 
 Alors quand l'étang devient océan, quand je suis perdue par les récits du ciel, il m'offre une bulle. Il nous sourit, à moi et la vie. Si nous y sommes, c'est pour rire. Alors petite crevette, prends confiance. 
 
@@ -216,7 +206,7 @@ elle qui me donne la vie.
 
     Kyrié Allah
     Zaghloul El Hamam
-    Deuil de Nassim`},{name:"L'herbe noire, les cloches et le condamné",slug:"herbe-cloches-condamné",n:5,id:"_r2JV5vynfI",vignette:new URL("/assets/vignette-condamné-84035c71.png",self.location).href,description:`Le ciel parle des hauteurs si aiguës que même quand les hirondelles se prépareront à le pourchasser il n’y aura que lui qui aura les pieds sur terre. 
+    Deuil de Nassim`},{name:"L'herbe noire, les cloches et le condamnE",slug:"herbe-cloches-condamné",n:5,id:"_r2JV5vynfI",vignette:new URL("/assets/vignette-condamné-84035c71.png",self.location).href,description:`Le ciel parle des hauteurs si aiguës que même quand les hirondelles se prépareront à le pourchasser il n’y aura que lui qui aura les pieds sur terre. 
 
 Vire la marée à tribord comme on vire un salarié à son sort, comme on l’enivre à la mort. Car la tempête est rageuse. L’orage l’a trop rouspétée. 
 Exaspéré, le voilà exalté par la pitié. 
@@ -290,7 +280,7 @@ sans conscience
 gésiers de démence
 de sueurs froides et de brouillard.
 
-|| musique par Caleb Arredondo - Echo Sax End`},{name:"La noyée",slug:"la-noyée",n:9,id:"2C3LtM5Y2wE",vignette:new URL("/assets/vignette-laNoyée-64598220.png",self.location).href,description:`la lune est obscure dans les dents de la scie.
+|| musique par Caleb Arredondo - Echo Sax End`},{name:"La noyEe",slug:"la-noyée",n:9,id:"2C3LtM5Y2wE",vignette:new URL("/assets/vignette-laNoyée-64598220.png",self.location).href,description:`la lune est obscure dans les dents de la scie.
 je m’y défie le front liquide, les tempes esseulées.
 
 mes noyés nés avant l’arbre se réunissent un à un, seuls.
