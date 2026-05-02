@@ -116,6 +116,8 @@ p{
     white-space: pre-wrap;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .controls{
